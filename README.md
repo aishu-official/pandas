@@ -1,2 +1,2 @@
 # pandas
-learn bascis of pandas
+learn basics of pandas
